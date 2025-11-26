@@ -24,8 +24,9 @@
 
 
 
-+ Imatges de la pràctica 7: ![practica 7](practica7_1.jpg)
-![practica 7](practica7_2.jpg)
++ Imatges de la pràctica 7:
+L'evolució de diferents sucursals de la mateixa regió i per trimestre. ![practica 7](practica7_3.jpg)
+L'evolució en ventes mes a mes de dos productes ![practica 7](practica7_4.jpg)
 
 
 
