@@ -30,12 +30,12 @@ L'evolució en ventes mes a mes de dos productes ![practica 7](practica7_4.jpg)
 
 
 
-+ Imatges de la pràctica 8 (PowerBI + DAX): treballant amb medidas: Cuenta, Ventas, Cantidad... ![practica 8](power_bi_medidas_dax.jpg)
-![practica 8](proyecto1_dax.jpg)
++ Imatges de la pràctica 8 (PowerBI + DAX): treballant amb medidas en DAX: Cuenta, Ventas, Cantidad... ![practica 8](power_bi_medidas_dax.jpg)
 
 
 
 + Imatges de la pràctica 9 (PowerBI + DAX): treballant amb medidas de població, ingressos, vendes, beneficis...
+Cada punt és el PIB d'un país representat en un gràfic de PIB per càpita(Y) i milions de població (X)
 ![practica 9](proyecto1_dax.jpg)
 ![practica 9](dax_avanzado1.jpg)
 ![practica 9](dax_avanzado2.jpg)
